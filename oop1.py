@@ -7,8 +7,5 @@ class employee:
 
     def travel(self, designation):
         print(f"employee is now travelling to {designation}")
-
-    
-
-
+        
 sam = employee()
